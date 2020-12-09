@@ -1,1 +1,1 @@
-New repository here: https://github.com/bleistivt/Application-Yaga
+Moved to https://github.com/bleistivt/yaga
